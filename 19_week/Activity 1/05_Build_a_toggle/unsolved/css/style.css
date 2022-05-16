@@ -1,0 +1,38 @@
+/* Style your dropdown below! */
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+    font-family: "Open Sans", helvetica, sans-serif;
+    width: 500px;
+}
+
+#toggle {
+    background-color: #FF6767;
+    color: white;
+    cursor: pointer;
+}
+
+#toggle img {
+    width: 1em;
+    height: auto;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+ul li {
+    border: 1px solid black;
+
+}
